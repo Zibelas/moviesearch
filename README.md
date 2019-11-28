@@ -1,3 +1,10 @@
+# Whats missing
+
+- Error handling
+- extract style to css
+- change checkbox to star icon
+- hover visual clue for table row
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
